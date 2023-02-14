@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819170330554",
+    "project_id": "ex88firebasechattingkyjsoft",
+    "storage_bucket": "ex88firebasechattingkyjsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819170330554:android:18519be98c0a5c63e63f83",
+        "android_client_info": {
+          "package_name": "com.kyjsoft.ex88firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819170330554-cek82knfm73om8j65c58gh7sf77kj7lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJtAW29ZBau9u6zrBKyTUJ9pxhduX8IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819170330554-cek82knfm73om8j65c58gh7sf77kj7lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
